@@ -1,0 +1,46 @@
+=== about.html ===
+Title: About Us - Glamora Beauty Salon
+Meta Description: Learn about Glamora Beauty Salon's philosophy, our luxurious salon experience, and meet our expert team of stylists and beauty therapists in Pudukkottai.
+H1 count: 1
+  H1_0: About Us
+Total links: 11, Dead links (# or empty): 0
+All links: ['index.html', 'index.html', 'about.html', 'services.html', 'gallery.html', 'contact.html', 'https://wa.me/919876543210?text=I%20would%20like%20to%20book%20an%20appointment', 'tel:+919876543210', 'https://wa.me/919876543210', '#instagram-placeholder'] ...
+Total images: 4, Missing/empty alt text: 0
+
+=== contact.html ===
+Title: Contact - Glamora Beauty Salon
+Meta Description: Get in touch with Glamora Beauty Salon in Pudukkottai. Find our address, business hours, and book your appointment easily via WhatsApp.
+H1 count: 1
+  H1_0: Contact Us
+Total links: 13, Dead links (# or empty): 0
+All links: ['index.html', 'index.html', 'about.html', 'services.html', 'gallery.html', 'contact.html', 'https://wa.me/919876543210?text=I%20would%20like%20to%20book%20an%20appointment', 'tel:+919876543210', 'https://wa.me/919876543210?text=Hello%20Glamora', 'tel:+919876543210'] ...
+Total images: 0, Missing/empty alt text: 0
+
+=== gallery.html ===
+Title: Gallery - Glamora Beauty Salon
+Meta Description: View the Glamora Beauty Salon gallery. A glimpse into our premium salon interior, bridal transformations, and professional beauty treatments.
+H1 count: 1
+  H1_0: Our Gallery
+Total links: 11, Dead links (# or empty): 0
+All links: ['index.html', 'index.html', 'about.html', 'services.html', 'gallery.html', 'contact.html', 'https://wa.me/919876543210?text=I%20would%20like%20to%20book%20an%20appointment', 'tel:+919876543210', 'https://wa.me/919876543210', '#instagram-placeholder'] ...
+Total images: 8, Missing/empty alt text: 0
+
+=== index.html ===
+Title: Glamora Beauty Salon - Home
+Meta Description: Glamora Beauty Salon in Pudukkottai offers premium hair, beauty, and bridal services in a luxurious, relaxing environment. Book your appointment today.
+H1 count: 2
+  H1_0: Glamora.
+  H1_1: Glamora Beauty Salon
+Total links: 15, Dead links (# or empty): 0
+All links: ['index.html', 'index.html', 'about.html', 'services.html', 'gallery.html', 'contact.html', 'https://wa.me/919876543210?text=I%20would%20like%20to%20book%20an%20appointment', 'contact.html#appointment-form', 'https://wa.me/919876543210?text=Hello%20Glamora%2C%20I%20would%20like%20to%20book%20an%20appointment', 'tel:+919876543210'] ...
+Total images: 0, Missing/empty alt text: 0
+
+=== services.html ===
+Title: Services - Glamora Beauty Salon
+Meta Description: Explore Glamora Beauty Salon's comprehensive range of services, including haircuts, facials, styling, and premium bridal makeup packages.
+H1 count: 1
+  H1_0: Our Services
+Total links: 11, Dead links (# or empty): 0
+All links: ['index.html', 'index.html', 'about.html', 'services.html', 'gallery.html', 'contact.html', 'https://wa.me/919876543210?text=I%20would%20like%20to%20book%20an%20appointment', 'tel:+919876543210', 'https://wa.me/919876543210', '#instagram-placeholder'] ...
+Total images: 0, Missing/empty alt text: 0
+
