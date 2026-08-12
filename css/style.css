@@ -456,14 +456,14 @@ ul {
 .services-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--space-sm) var(--space-md);
+  gap: var(--space-md) var(--space-md);
 }
 
 .service-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: var(--space-sm);
+  padding: var(--space-md);
   background-color: var(--color-bg-white);
   border-radius: var(--radius-sm);
   border: 1px solid #EAEAEA;
@@ -481,9 +481,19 @@ ul {
 }
 
 .service-price {
+  font-family: 'Poppins', system-ui, -apple-system, Arial, sans-serif;
   font-weight: 600;
   color: var(--color-primary);
   white-space: nowrap;
+  background-color: var(--color-primary-light);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+.rupee {
+  font-family: 'Noto Sans', system-ui, Arial, sans-serif !important;
+  font-weight: 500;
+  margin-right: 2px;
 }
 
 .price-footnote p {
